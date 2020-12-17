@@ -1939,11 +1939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ISEC\\2020_2021\\AMOV\\Exemplo1\\Exemplo1.Android\\Exemplo1.Android.csproj",
+      "projectUniqueName": "D:\\ISEC\\2020_2021\\AMOV_2020_2021_XAMARIN_Exemplo1\\Exemplo1.Android\\Exemplo1.Android.csproj",
       "projectName": "Exemplo1.Android",
-      "projectPath": "D:\\ISEC\\2020_2021\\AMOV\\Exemplo1\\Exemplo1.Android\\Exemplo1.Android.csproj",
+      "projectPath": "D:\\ISEC\\2020_2021\\AMOV_2020_2021_XAMARIN_Exemplo1\\Exemplo1.Android\\Exemplo1.Android.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "D:\\ISEC\\2020_2021\\AMOV\\Exemplo1\\Exemplo1.Android\\obj\\",
+      "outputPath": "D:\\ISEC\\2020_2021\\AMOV_2020_2021_XAMARIN_Exemplo1\\Exemplo1.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1964,8 +1964,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\ISEC\\2020_2021\\AMOV\\Exemplo1\\Exemplo1\\Exemplo1.csproj": {
-              "projectPath": "D:\\ISEC\\2020_2021\\AMOV\\Exemplo1\\Exemplo1\\Exemplo1.csproj"
+            "D:\\ISEC\\2020_2021\\AMOV_2020_2021_XAMARIN_Exemplo1\\Exemplo1\\Exemplo1.csproj": {
+              "projectPath": "D:\\ISEC\\2020_2021\\AMOV_2020_2021_XAMARIN_Exemplo1\\Exemplo1\\Exemplo1.csproj"
             }
           }
         }

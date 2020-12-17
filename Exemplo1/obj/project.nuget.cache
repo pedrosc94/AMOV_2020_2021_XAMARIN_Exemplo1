@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cdfiiaMq3w0jyPHxqbeZmJg6aRinODBs6KX97TTs83Z6xu6n1ztMq6EmI8m2iPR1qvxsIOAjQXWrEI0BBD8EOw==",
+  "dgSpecHash": "dOOCB2v4KtH5CQNGXfZtSDnBYFwB2DQgiTUmn3c1XBi0Uqe8v21akXlrSP6T768hmFBlg6fK9i45ifWGDVQ9iA==",
   "success": true,
-  "projectFilePath": "D:\\ISEC\\2020_2021\\AMOV\\Exemplo1\\Exemplo1\\Exemplo1.csproj",
+  "projectFilePath": "D:\\ISEC\\2020_2021\\AMOV_2020_2021_XAMARIN_Exemplo1\\Exemplo1\\Exemplo1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

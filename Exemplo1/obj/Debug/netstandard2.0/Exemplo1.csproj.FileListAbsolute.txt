@@ -12,3 +12,17 @@ D:\ISEC\2020_2021\AMOV\Exemplo1\Exemplo1\obj\Debug\netstandard2.0\XamlC.stamp
 D:\ISEC\2020_2021\AMOV\Exemplo1\Exemplo1\obj\Debug\netstandard2.0\Exemplo1.dll
 D:\ISEC\2020_2021\AMOV\Exemplo1\Exemplo1\obj\Debug\netstandard2.0\ref\Exemplo1.dll
 D:\ISEC\2020_2021\AMOV\Exemplo1\Exemplo1\obj\Debug\netstandard2.0\Exemplo1.pdb
+D:\ISEC\2020_2021\AMOV_2020_2021_XAMARIN_Exemplo1\Exemplo1\bin\Debug\netstandard2.0\Exemplo1.deps.json
+D:\ISEC\2020_2021\AMOV_2020_2021_XAMARIN_Exemplo1\Exemplo1\bin\Debug\netstandard2.0\Exemplo1.dll
+D:\ISEC\2020_2021\AMOV_2020_2021_XAMARIN_Exemplo1\Exemplo1\bin\Debug\netstandard2.0\ref\Exemplo1.dll
+D:\ISEC\2020_2021\AMOV_2020_2021_XAMARIN_Exemplo1\Exemplo1\bin\Debug\netstandard2.0\Exemplo1.pdb
+D:\ISEC\2020_2021\AMOV_2020_2021_XAMARIN_Exemplo1\Exemplo1\obj\Debug\netstandard2.0\Exemplo1.csprojAssemblyReference.cache
+D:\ISEC\2020_2021\AMOV_2020_2021_XAMARIN_Exemplo1\Exemplo1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ISEC\2020_2021\AMOV_2020_2021_XAMARIN_Exemplo1\Exemplo1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ISEC\2020_2021\AMOV_2020_2021_XAMARIN_Exemplo1\Exemplo1\obj\Debug\netstandard2.0\Exemplo1.AssemblyInfoInputs.cache
+D:\ISEC\2020_2021\AMOV_2020_2021_XAMARIN_Exemplo1\Exemplo1\obj\Debug\netstandard2.0\Exemplo1.AssemblyInfo.cs
+D:\ISEC\2020_2021\AMOV_2020_2021_XAMARIN_Exemplo1\Exemplo1\obj\Debug\netstandard2.0\Exemplo1.csproj.CoreCompileInputs.cache
+D:\ISEC\2020_2021\AMOV_2020_2021_XAMARIN_Exemplo1\Exemplo1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ISEC\2020_2021\AMOV_2020_2021_XAMARIN_Exemplo1\Exemplo1\obj\Debug\netstandard2.0\Exemplo1.dll
+D:\ISEC\2020_2021\AMOV_2020_2021_XAMARIN_Exemplo1\Exemplo1\obj\Debug\netstandard2.0\ref\Exemplo1.dll
+D:\ISEC\2020_2021\AMOV_2020_2021_XAMARIN_Exemplo1\Exemplo1\obj\Debug\netstandard2.0\Exemplo1.pdb

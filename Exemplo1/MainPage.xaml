@@ -4,29 +4,23 @@
              x:Class="Exemplo1.MainPage">
 
     <StackLayout BackgroundColor="White">
-        
+
         <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
             <Label Text="Example 1" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
-
-        <StackLayout>
-            <Label Text="Text Input" HorizontalTextAlignment="Center" TextColor="Black" FontSize="24"/>
-            <ScrollView HeightRequest="200">
-                <Editor x:Name="editorTextInput" Placeholder="Insert Text" Text="" HorizontalOptions="Fill" TextColor="Black"/>
-            </ScrollView>
-        </StackLayout>
-
-        <StackLayout>
-            <Label Text="Text Output" HorizontalTextAlignment="Center" TextColor="Black" FontSize="24"/>
-            <ScrollView HeightRequest="200">
-                <Editor x:Name="editorTextOutput" VerticalOptions="Fill" Placeholder="Output Text Here" Text="" IsReadOnly="True" TextColor="Black"/>
-            </ScrollView>
-        </StackLayout>
-
-        <StackLayout VerticalOptions="EndAndExpand">
-            <Button Clicked="ButtonTextInput_Clicked" Text="Apply" BackgroundColor="Gray" TextColor="White" FontSize="36"/>
-        </StackLayout>
         
+        <Label Text="Text Input" HorizontalTextAlignment="Center" TextColor="Black" FontSize="24"/>
+        <ScrollView Padding="25" HeightRequest="200">
+            <Editor x:Name="editorTextInput" Placeholder="Insert Text" Text="" HorizontalOptions="Fill" TextColor="Black"/>
+        </ScrollView>
+        
+        <Label Text="Text Output" HorizontalTextAlignment="Center" TextColor="Black" FontSize="24"/>
+        <ScrollView Padding="25" HeightRequest="200">
+            <Label x:Name="editorTextOutput" VerticalOptions="Fill" TextColor="Black"/>
+        </ScrollView>
+
+        <Button VerticalOptions="EndAndExpand" Clicked="ButtonTextInput_Clicked" Text="Apply" BackgroundColor="Gray" TextColor="White" FontSize="36"/>
+
     </StackLayout>
 
 </ContentPage>
