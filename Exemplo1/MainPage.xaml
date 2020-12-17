@@ -11,12 +11,12 @@
         
         <Label Text="Text Input" HorizontalTextAlignment="Center" TextColor="Black" FontSize="24"/>
         <ScrollView Padding="25" HeightRequest="200">
-            <Editor x:Name="editorTextInput" Placeholder="Insert Text" Text="" HorizontalOptions="Fill" TextColor="Black"/>
+            <Editor x:Name="editorTextInput" Placeholder="Insert Text" Text="" HorizontalOptions="Fill" FontSize="14" TextColor="Black"/>
         </ScrollView>
         
         <Label Text="Text Output" HorizontalTextAlignment="Center" TextColor="Black" FontSize="24"/>
         <ScrollView Padding="25" HeightRequest="200">
-            <Label x:Name="editorTextOutput" VerticalOptions="Fill" TextColor="Black"/>
+            <Label x:Name="editorTextOutput" VerticalOptions="Fill" FontSize="14" TextColor="Black"/>
         </ScrollView>
 
         <Button VerticalOptions="EndAndExpand" Clicked="ButtonTextInput_Clicked" Text="Apply" BackgroundColor="Gray" TextColor="White" FontSize="36"/>
